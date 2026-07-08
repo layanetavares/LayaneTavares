@@ -13,9 +13,9 @@ A minha trajetória na pesquisa clínica me deu uma base sólida em rigor metodo
 - **Ferramentas de Trabalho:** Visual Studio, Git & GitHub
 
 ## 📈 Meus Projetos em Destaque
-- **[TodoListConsole](https://github.com/SEU-USUARIO/TodoListConsole):** Gerenciador de tarefas robusto via linha de comando, com interface gráfica customizada (CLI) e persistência de dados em arquivos locais utilizando JSON.
+- **[TodoListConsole](https://github.com/layanetavares/TodoListConsole):** Gerenciador de tarefas robusto via linha de comando, com interface gráfica customizada (CLI) e persistência de dados em arquivos locais utilizando JSON.
 
 ---
 📫 **Vamos nos conectar?** 
-- [Meu LinkedIn](https://www.linkedin.com/in/layane-tavares-077791210/).
+- [Meu LinkedIn](https://www.linkedin.com/in/layane-tavares-077791210).
 - [Meu E-mail](Layanetavaresam@gmail.com).
