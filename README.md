@@ -18,4 +18,4 @@ A minha trajetória na pesquisa clínica me deu uma base sólida em rigor metodo
 ---
 📫 **Vamos nos conectar?** 
 - [Meu LinkedIn](https://www.linkedin.com/in/layane-tavares-077791210).
-- [Meu E-mail](Layanetavaresam@gmail.com).
+- [Meu E-mail](mailto:Layanetavaresam@gmail.com).
