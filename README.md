@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, me chamo Layane Tavares! 👋
 
-<!--
-**layanetavares/LayaneTavares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seja bem-vindo ao meu perfil! Atualmente, estou em plena **transição de carreira da Pesquisa Clínica para o Desenvolvimento de Software**, focando os meus estudos no ecossistema **C#** e **.NET**.
 
-Here are some ideas to get you started:
+A minha trajetória na pesquisa clínica me deu uma base sólida em rigor metodológico, atenção extrema aos detalhes, análise estruturada de dados e conformidade com processos complexos. Hoje, canalizo essa experiência e a minha paixão por lógica para construir códigos limpos, organizados e soluções tecnológicas eficientes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Habilidades e Tecnologias em Desenvolvimento
+- **Linguagem Principal:** C#
+- **Plataformas & Frameworks:** .NET (Console Applications / CLI)
+- **Persistência & Estruturação:** JSON, manipulação de arquivos locais (I/O)
+- **Ferramentas de Trabalho:** Visual Studio, Git & GitHub
+
+## 📈 Meus Projetos em Destaque
+- **[TodoListConsole](https://github.com/SEU-USUARIO/TodoListConsole):** Gerenciador de tarefas robusto via linha de comando, com interface gráfica customizada (CLI) e persistência de dados em arquivos locais utilizando JSON.
+
+---
+📫 **Vamos nos conectar?** 
+- [Meu LinkedIn](https://www.linkedin.com/in/layane-tavares-077791210/).
+- [Meu E-mail](Layanetavaresam@gmail.com).
