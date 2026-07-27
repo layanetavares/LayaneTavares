@@ -13,7 +13,8 @@ A minha trajetória na pesquisa clínica me deu uma base sólida em rigor metodo
 - **Ferramentas de Trabalho:** Visual Studio, Git & GitHub
 
 ## 📈 Meus Projetos em Destaque
-- **[TodoListConsole](https://github.com/layanetavares/TodoListConsole):** Gerenciador de tarefas robusto via linha de comando, com interface gráfica customizada (CLI) e persistência de dados em arquivos locais utilizando JSON.
+- **[TodoListConsole](https://github.com/layanetavares/TodoListConsole):** ** Gerenciador de tarefas robusto via linha de comando (CLI) desenvolvido em C#. Possui interface estilizada em tom Ciano com tabelas e bordas Unicode, navegação fluida sem travamentos, manipulação dinâmica de IDs via LINQ e persistência de dados local utilizando JSON (`System.Text.Json`)
+- **[CalculadoraConsole]([https://github.com/layanetavares/Calculadora.git]):** Aplicação de calculadora interativa via terminal desenvolvida em C#. Suporta operações matemáticas fundamentais, validação contra erros de divisão por zero e formatação dinâmica de entradas do usuário.
 
 ---
 📫 **Vamos nos conectar?** 
